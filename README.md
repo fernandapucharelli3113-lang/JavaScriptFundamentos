@@ -46,9 +46,9 @@ Ao concluir este projeto, o aluno será capaz de
 - ===
 - != 
 - !===
-- // >
+- \ >
 - <
-- // >=
+- \ >=
 - <=
 
 ### Lógicas
@@ -67,3 +67,42 @@ Ao concluir este projeto, o aluno será capaz de
 - do...while
 - break
 - continue
+### Arrays
+- Criação
+- Acesso aos elementos 
+- Alteração 
+- Percorrendo arrays
+- Lenght
+- push()
+- pop()
+- shift()
+- unshift()
+- includer()
+
+## Tecnologias Utilizadas
+- JavaScript
+- Node.js
+- Visual Studio Code 
+- Git 
+- Github
+
+# Executando o Projeto
+
+### Clone o Projeto
+
+```bash
+    git clone url_do-github
+```
+
+```bash
+    cd JavaSriptFundamentos
+```
+
+```bash
+    node app.js
+```
+
+# Disciplina
+**Back-End com JavaScript (Node.js)**
+Professor: **Vitor Lima**
+
