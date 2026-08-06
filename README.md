@@ -1,1 +1,1 @@
-# JavaScript - Fundamentos, Condiçõe, Laços e Arrays 
+# JavaScript - Fundamentos, Condições, Laços e Arrays 
